@@ -18,9 +18,9 @@ Type `about:config` in the URL bar and search for the following variables:
 
 ## Additional Addons
 
-[eBesucher](https://addons.mozilla.org/de/firefox/addon/ebesucher-addon1) (Firefox)
-[Popupblocker](https://addons.mozilla.org/de/firefox/addon/popupblockerall) (Firefox) - ([Settings #1](https://i.imgur.com/8gFfNt6.png), [Settings #2](https://i.imgur.com/s8Om9qQ.png))
-[Disable HTML5 Autoplay](https://addons.mozilla.org/de/firefox/addon/disable-autoplay) (Firefox)
+[eBesucher](https://addons.mozilla.org/de/firefox/addon/ebesucher-addon1) (Firefox) <br/>
+[Popupblocker](https://addons.mozilla.org/de/firefox/addon/popupblockerall) (Firefox) - ([Settings #1](https://i.imgur.com/8gFfNt6.png), [Settings #2](https://i.imgur.com/s8Om9qQ.png)) <br/>
+[Disable HTML5 Autoplay](https://addons.mozilla.org/de/firefox/addon/disable-autoplay) (Firefox) <br/>
 
 
 ## Profiles
