@@ -33,4 +33,4 @@ It's necessary to setup a surfBar profile called `ebesucher1` while using Firefo
 ## Run
 
 Run the executable and let the tool do the rest for you. It randomizes the startup intervals to spoof bot like behavior.<br/>
-  <img width="977" height="510" src="https://i.imgur.com/efKTxiG.png">
+  <img width="977" height="510" src="https://i.imgur.com/rf52GKS.png">
